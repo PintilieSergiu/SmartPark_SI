@@ -1,0 +1,5 @@
+SmartPart
+
+Tema initiala: Sistem de monitorizare a numarului de locuri libere intr-o parcare, implementat cu ajutorul unei machete demonstrative si incluzand o bariera comandata de un servomotor.
+
+Tema actualizata de noi: Sistem de monitorizare active a numarului de locuri libere intr-o parcare, cu posibilitatea de a accesa aceasta informatie de la distanta prin intermediul aplicatiei noastre SmartPark, disponibila pentru Android. De asemenea, aplicatia permite crearea de rezervari a locurilor de parcare si inlocuieste ,prin folosirea unui Barcode, posesia de carduri de intrare disponibile la alte parcari private cunoscute. Implementarea se face cu ajutorul unei machete demonstrative, incluzand doua bariere comandate de doua servomotoare, actionate de  un sistem de senzori formati dintr-un laser si un fotorezistor, un modul ESP8266-01, responsabil de conectarea la internet pentru a putea trimite request-urile spre backend, dar si un scanner MH-ET LIVE SCANNER V3.0 responsabil de citirea codului de bare de pe dispozitivul mobile pentru a putea forma mesajele de request.
